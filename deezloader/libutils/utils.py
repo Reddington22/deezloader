@@ -128,7 +128,7 @@ def set_path(
 	#duration = var_excape(song_metadata['duration'])
 	isrc = var_excape(song_metadata['isrc'])
 	#gain = var_excape(song_metadata['gain'])
-	music = var_excape(song_metadata['music']))
+	music = var_excape(song_metadata['music'])
 
 	if method_save == 0:
 		discnum = song_metadata['discnum']
